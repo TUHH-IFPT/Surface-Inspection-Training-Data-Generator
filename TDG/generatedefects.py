@@ -2,7 +2,6 @@
 import bpy
 import random
 import os
-# from randomizetexture import MAIN_OBJ_NAME
 #endregion
 
 #region CONSTANTS

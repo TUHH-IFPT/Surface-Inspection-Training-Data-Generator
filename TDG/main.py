@@ -11,7 +11,6 @@ from datetime import datetime
 
 #region CONSTANTS
 
-#TODO: change all file names to constants
 #enter path to local blender installation
 BLENDER_PATH = ''
 INSPECTION_PATH_FILE = 'Inspektionspfad_links_blenderready.txt'
@@ -35,7 +34,7 @@ CONFIG_BASE_CONTENT = (
     "{\n"
     "  \"version\": 3,\n"
     "  \"setup\": {\n"
-    "    \"blender_install_path\": \"/home_local/HiWi2/blender/\",\n"
+    "    \"blender_install_path\": \"/home_local/foo/blender/\",\n"
     "    \"pip\": [\n"
     "      \"h5py\",\n"
     "      \"scikit-image\"\n"
